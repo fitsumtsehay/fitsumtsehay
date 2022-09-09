@@ -1,5 +1,5 @@
 ### Hello! 👋
-### I’m Fitsum, a software developer, who is eager to collaborate on valuable projects.
+### I’m Fitsum, a certified AWS Solutions Architect, software developer, Scrum Master, Full Stack Java Developer, and SharePoint developer with skills in Java, Python and JavaScript, who is eager to collaborate on on user-focused software products and features for clients.
 <!--
 **fitsumtsehay/fitsumtsehay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
