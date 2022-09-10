@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 <tbody>
 <tr>
 <td align="center">A vacation rental booking application using MySQL Database, Spring Boot, JavaScript, CSS and HTML  <a href="https://github.com/fitsumtsehay/jfwd-final-project">Rental App</a></td>
-<td align="center">With the application one can add a new pet to the store, update an existing pet, delete a pet or uplaod an image <a href="[https://m.signalvnoise.com/towards-carbon-negativity](https://github.com/fitsumtsehay/PetSmartProject)" rel="nofollow">its first carbon footprinting</a> using a good ol' fashioned spreadsheet and <a href="https://m.signalvnoise.com/basecamp-has-offset-our-cumulative-emissions-through-2019/" rel="nofollow">offsetting its cumulative history</a></td>
+<td align="center">With the application one can add a new pet to the store, update an existing pet, delete a pet or uplaod an image: 
+  <a href="[https://m.signalvnoise.com/basecamp-has-offset-our-cumulative-emissions-through-2019/" rel="nofollow](https://github.com/fitsumtsehay/PetSmartProject)">Pet Store App</a></td>
 </tr>
 <tr>
 <td align="center"><strong><g-emoji class="g-emoji" alias="earth_africa" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png">🌍</g-emoji> data application</strong></td>
