@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 <table>
 <thead>
 <tr>
-<th align="center"><strong><g-emoji class="g-emoji" alias="ballot_box" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5f3.png">🗳️</g-emoji> election result analysis</strong></th>
+<th align="center"><strong><g-emoji class="g-emoji" alias="ballot_box" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5f3.png"></g-emoji> Vacation rental booking application</strong></th>
 <th align="center"><strong><g-emoji class="g-emoji" alias="dash" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a8.png">💨</g-emoji> carbon footprinting</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center">i supported a successful state representative campaign in illinois with data + tech work. after the primary, i had a little fun in R  <a href="https://github.com/janejuenyang/fun/tree/main/il_primary2022">mapping the results</a></td>
+<td align="center">A vacation rental application using MySQL Database, Spring Boot, JavaScript, CSS and HTML<a href="https://github.com/fitsumtsehay/jfwd-final-project</a></td>
 <td align="center">i established the climate action work at a small tech company, conducting <a href="https://m.signalvnoise.com/towards-carbon-negativity/" rel="nofollow">its first carbon footprinting</a> using a good ol' fashioned spreadsheet and <a href="https://m.signalvnoise.com/basecamp-has-offset-our-cumulative-emissions-through-2019/" rel="nofollow">offsetting its cumulative history</a></td>
 </tr>
 <tr>
