@@ -49,26 +49,4 @@ Here are some ideas to get you started:
 </table>
 
 
-<table>
-<thead>
-<tr>
-<th align="center"><strong><g-emoji class="g-emoji" alias="ballot_box" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5f3.png"></g-emoji> Vacation rental booking application</strong></th>
-<th align="center"><strong><g-emoji class="g-emoji" alias="dash" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a8.png">💨</g-emoji> carbon footprinting</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center">A vacation rental application using MySQL Database, Spring Boot, JavaScript, CSS and HTML<a href="https://github.com/fitsumtsehay/jfwd-final-project</a></td>
-<td align="center">i established the climate action work at a small tech company, conducting <a href="https://m.signalvnoise.com/towards-carbon-negativity/" rel="nofollow">its first carbon footprinting</a> using a good ol' fashioned spreadsheet and <a href="https://m.signalvnoise.com/basecamp-has-offset-our-cumulative-emissions-through-2019/" rel="nofollow">offsetting its cumulative history</a></td>
-</tr>
-<tr>
-<td align="center"><strong><g-emoji class="g-emoji" alias="earth_africa" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png">🌍</g-emoji> data application</strong></td>
-<td align="center"><strong>👩🏻‍🏫 raising data literacy</strong></td>
-</tr>
-<tr>
-<td align="center">off-the-shelf business intelligence tools can be handy but are limited. when i need more flexibility and functionality, i turn to shiny to make stuff like this <a href="https://oneacrefund.shinyapps.io/KE-expansion/" rel="nofollow">interactive expansion analysis tool</a></td>
-<td align="center">i've developed and delivered many trainings designed to help professionals in other disciplines do more with data. those trainings have ranged from fundamental principles of impact evaluation (proprietary) to  <a href="https://drive.google.com/drive/folders/12aChtYnwKqWbdqRwcMdJDuw25g-Eiz64?usp=sharing" rel="nofollow">conducting a/b tests</a></td>
-</tr>
-</tbody>
-</table>
 
