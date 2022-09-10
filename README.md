@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </thead>
 <tbody>
 <tr>
-<td align="center">A vacation rental booking application using MySQL Database, Spring Boot, JavaScript, CSS and HTML  <a href="https://github.com/janejuenyang/fun/tree/main/il_primary2022">mapping the results</a></td>
+<td align="center">A vacation rental booking application using MySQL Database, Spring Boot, JavaScript, CSS and HTML  <a href="https://github.com/fitsumtsehay/jfwd-final-project">Rental App</a></td>
 <td align="center">i established the climate action work at a small tech company, conducting <a href="https://m.signalvnoise.com/towards-carbon-negativity/" rel="nofollow">its first carbon footprinting</a> using a good ol' fashioned spreadsheet and <a href="https://m.signalvnoise.com/basecamp-has-offset-our-cumulative-emissions-through-2019/" rel="nofollow">offsetting its cumulative history</a></td>
 </tr>
 <tr>
