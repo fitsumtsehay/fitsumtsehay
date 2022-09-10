@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <td align="center">The Automated Teller Machine ATM Banking System is a banking application developed to perform different banking services through the Automated Teller Machines. The all functions include the regular transactions like cash deposits, cash withdrawals, balance enquiry. <a href="https://github.com/fitsumtsehay/Spring-ATM-Final-" rel="nofollow"><ATM Banking System Simulator</td>
   
   
-<td align="center">i've developed and delivered many trainings designed to help professionals in other disciplines do more with data. those trainings have ranged from fundamental principles of impact evaluation (proprietary) to  <a href="https://drive.google.com/drive/folders/12aChtYnwKqWbdqRwcMdJDuw25g-Eiz64?usp=sharing" rel="nofollow">conducting a/b tests</a></td>
+<td align="center">The Automated Teller Machine ATM Banking System is a banking application developed to perform different banking services through the Automated Teller Machines. The all functions include the regular transactions like cash deposits, cash withdrawals, balance enquiry. <a href="https://github.com/fitsumtsehay/Spring-ATM-Final-" rel="nofollow">ATM Banking System Simulator</a></td>
 </tr>
 </tbody>
 </table>
