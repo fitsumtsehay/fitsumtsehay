@@ -67,7 +67,10 @@ Here are some ideas to get you started:
   
   <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="fitsum-tsehay" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/fitsum-tsehay?trk=profile-badge">Fitsum Tsehay</a></div>
               
-  
+      <a href="https://github.com/Shubhamdutta2000"><img height="30" src="https://camo.githubusercontent.com/f5f5fa1c2753be299a410838a5140a701cc66fb4adc13c0b9a3d45936d2bf0d8/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f706e672f3531322f32352f32353233312e706e67" data-canonical-src="https://image.flaticon.com/icons/png/512/25/25231.png" style="max-width: 100%;"></a>
+    &nbsp;&nbsp;
+</p>
+
   
 </p>
 <p align="center" dir="auto">
@@ -78,5 +81,4 @@ Here are some ideas to get you started:
 
 <p align="left" dir="auto">
     <a href="https://www.linkedin.com/in/shubham-dutta-b342691a6/" rel="nofollow"><img height="30" src="https://camo.githubusercontent.com/7a5da56a52ff887ab16885ccf2aac10214e90dbb87705a60fd8e04aa3e13354e/68747470733a2f2f6477676c6f676f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f4c696e6b6564696e5f73796d626f6c5f7472616e73706172656e742e706e67" data-canonical-src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png" style="max-width: 100%;"></a>&nbsp;&nbsp;
-    
-</p>
+   
