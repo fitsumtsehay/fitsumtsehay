@@ -70,7 +70,6 @@ Here are some ideas to get you started:
   <i>have a joyful day!</i>
 </p>
 
-<p align="center" dir="auto">
-  <a href="https://www.linkedin.com/in/janejyang/" alt="Linkedin" rel="nofollow"><img src="https://github.com/janejuenyang/janejuenyang/raw/main/images/linkedin.svg" width="25" style="max-width: 100%;"></a>
+
   
 </p>
