@@ -69,7 +69,7 @@ Here are some ideas to get you started:
   
 </p>
 <p align="center" dir="auto">
-  <p>Have a wonderfull day!</p>
+  <p align="center">Have a wonderfull day!</p>
 </p>
 
 
