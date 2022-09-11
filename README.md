@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 <tr>
 <th align="center"><strong><g-emoji class="g-emoji" alias="ballot_box" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5f3.png">🗳️</g-emoji> Vacation rental booking application</strong></th>
   
-<th align="center"><strong><g-emoji class="g-emoji" alias="dash" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a8.png">💨</g-emoji> Pet stroe App</strong></th>
+<th align="center"><strong><g-emoji class="g-emoji" alias="dash" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a8.png">![pet](https://user-images.githubusercontent.com/63597726/189506143-4361f102-e5f1-42eb-8428-e80fb5544a9e.png)
+💨</g-emoji> Pet stroe App</strong></th>
 </tr>
 </thead>
 <tbody>
