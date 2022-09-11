@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m Fitsum, a passionate software developer who is looking to colaborate on valuable projects.
+- 🔭 I’m 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 <p align="center">
 </p>
 
@@ -30,7 +28,7 @@ Here are some ideas to get you started:
 <th align="center"><strong><g-emoji class="g-emoji" alias="ballot_box" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5f3.png">🗳️</g-emoji> Vacation rental booking application</strong></th>
   
 <th align="center"><strong><g-emoji class="g-emoji" alias="dash" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a8.png">
-💨</g-emoji> Pet stroe App</strong></th>
+💨:dog:	</g-emoji> Pet stroe App</strong></th>
 </tr>
 </thead>
 <tbody>
@@ -43,39 +41,29 @@ Here are some ideas to get you started:
 <td align="center"><strong><g-emoji class="g-emoji" alias="earth_africa" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png">🌍</g-emoji> Automated Teller Machine ATM Banking System simulation</strong></td>
      <td align="center"><strong>👩🏻‍🏫 Securing Web Application using Spring Boot</strong></td>
 
-</tr>
- 
-  
+</tr> 
 <tr>
     <td align="center">The Automated Teller Machine ATM Banking System is a banking application developed to simulate different banking services through the Automated Teller Machines including regular transactions like cash deposits, cash withdrawals as well as balance enquiry. <a href="https://github.com/fitsumtsehay/Spring-ATM-Final-" rel="nofollow">ATM Banking System</td>
 
-
  <td align="center">In order to secure a web appication a user is required to log in before having access to any of the applications. The user can either log in as a user, and have limited access, or as an admin, and have full access, <a href="https://github.com/fitsumtsehay/SpringBootLoginSecurityWithNavbar" rel="nofollow">Web Application Security</a></td>
   
-
-
 </tr>
 </tbody>
 </table>
-
 
 <p align="center" dir="auto">
   <p align="center">If you would like to learn more, here's how you can:</p>
 </p>
 <p align="center" dir="auto">
-  
-              
+                
    <p align="center" dir="auto">
     <a href="https://www.linkedin.com/in/fitsum-tsehay/" rel="nofollow"><img height="30" src="https://camo.githubusercontent.com/7a5da56a52ff887ab16885ccf2aac10214e90dbb87705a60fd8e04aa3e13354e/68747470733a2f2f6477676c6f676f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f4c696e6b6564696e5f73796d626f6c5f7472616e73706172656e742e706e67" data-canonical-src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png" style="max-width: 100%;"></a>&nbsp;&nbsp;
    
 </p>
-
-  
 </p>
 <p align="center" dir="auto">
   <p align="center">Have a wonderfull day!</p>
 </p>
-  
-</p>
+ </p>
 
 
