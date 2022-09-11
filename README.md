@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <table>
 <thead>
 <tr>
-<th align="center"><strong><g-emoji class="g-emoji" alias="ballot_box" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5f3.png">🗳️</g-emoji> Vacation rental booking application</strong></th>
+<th align="center"><strong><g-emoji class="g-emoji" alias="ballot_box" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5f3.png">🗳🏝️</g-emoji> Vacation rental booking application</strong></th>
   
 <th align="center"><strong><g-emoji class="g-emoji" alias="dash" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a8.png">
 🐕‍🦺</g-emoji> Pet stroe App</strong></th>
