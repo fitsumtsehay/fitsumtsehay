@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 <table>
 <thead>
 <tr>
-<th align="center"><strong><g-emoji class="g-emoji" alias="ballot_box" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5f3.png">🏝️</g-emoji> Vacation rental booking application</strong></th>
+<th align="center"><strong><g-emoji class="g-emoji" alias="ballot_box" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5f3.png">🗳️</g-emoji> Vacation rental booking application</strong></th>
   
 <th align="center"><strong><g-emoji class="g-emoji" alias="dash" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a8.png">
-🐕‍🦺</g-emoji> Pet stroe App</strong></th>
+💨</g-emoji> Pet stroe App</strong></th>
 </tr>
 </thead>
 <tbody>
@@ -40,8 +40,8 @@ Here are some ideas to get you started:
   <a href="https://github.com/fitsumtsehay/PetSmartProject" rel="nofollow">Pet Store App</a></td>
 </tr>
 <tr>
-<td align="center"><strong><g-emoji class="g-emoji" alias="earth_africa" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png">🏧</g-emoji> Automated Teller Machine ATM Banking System simulation</strong></td>
-     <td align="center"><strong>🔒 Securing Web Application using Spring Boot</strong></td>
+<td align="center"><strong><g-emoji class="g-emoji" alias="earth_africa" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png">🌍</g-emoji> Automated Teller Machine ATM Banking System simulation</strong></td>
+     <td align="center"><strong>👩🏻‍🏫 Securing Web Application using Spring Boot</strong></td>
 
 </tr>
  
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
     <td align="center">The Automated Teller Machine ATM Banking System is a banking application developed to simulate different banking services through the Automated Teller Machines including regular transactions like cash deposits, cash withdrawals as well as balance enquiry. <a href="https://github.com/fitsumtsehay/Spring-ATM-Final-" rel="nofollow">ATM Banking System</td>
 
 
- <td align="center">In order to secure a web appication a user is required to log in before having access to any of the applications. The user can either log in as a user, and have limited access, or as an admin, and have full access <a href="https://github.com/fitsumtsehay/SpringBootLoginSecurityWithNavbar" rel="nofollow">Web Application Security</a></td>
+ <td align="center">In order to secure a web appication a user is required to log in before having access to any of the applications. The user can either log in as a user, and have limited access, or as an admin, and have full access, <a href="https://github.com/fitsumtsehay/SpringBootLoginSecurityWithNavbar" rel="nofollow">Web Application Security</a></td>
   
 
 
@@ -59,4 +59,18 @@ Here are some ideas to get you started:
 </table>
 
 
+<p align="center" dir="auto">
+  <i>if you're curious to learn more, here's how you can:</i>
+</p>
+<p align="center" dir="auto">
+  <a href="https://www.linkedin.com/in/janejyang/" alt="Linkedin" rel="nofollow"><img src="https://github.com/janejuenyang/janejuenyang/raw/main/images/linkedin.svg" width="25" style="max-width: 100%;"></a>
+  <a href="https://janeyang.org/" alt="Personal Website" rel="nofollow"><img src="https://github.com/janejuenyang/janejuenyang/raw/main/images/JA%20NE.png" width="25" style="max-width: 100%;"></a>
+</p>
+<p align="center" dir="auto">
+  <i>have a joyful day!</i>
+</p>
 
+<p align="center" dir="auto">
+  <a href="https://www.linkedin.com/in/janejyang/" alt="Linkedin" rel="nofollow"><img src="https://github.com/janejuenyang/janejuenyang/raw/main/images/linkedin.svg" width="25" style="max-width: 100%;"></a>
+  <a href="https://janeyang.org/" alt="Personal Website" rel="nofollow"><img src="https://github.com/janejuenyang/janejuenyang/raw/main/images/JA%20NE.png" width="25" style="max-width: 100%;"></a>
+</p>
