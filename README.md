@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 
 <p align="center" dir="auto">
-  <i>If you would like to learn more, here's how you can:</i>
+  <p>If you would like to learn more, here's how you can:</p>
 </p>
 <p align="center" dir="auto">
   <a href="https://www.linkedin.com/in/fitsum-tsehay/" alt="Linkedin" rel="nofollow"><img src="https://github.com/janejuenyang/janejuenyang/raw/main/images/linkedin.svg" width="25" style="max-width: 100%;"></a>
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
   
 </p>
 <p align="center" dir="auto">
-  <i>have a joyful day!</i>
+  <p>Have a wonderfull day!</p>
 </p>
 
 
