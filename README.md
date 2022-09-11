@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/fitsumtsehay/PetSmartProject" rel="nofollow">Pet Store App</a></td>
 </tr>
 <tr>
-<td align="center"><strong><g-emoji class="g-emoji" alias="earth_africa" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png">🌍</g-emoji> Automated Teller Machine ATM Banking System simulation</strong></td>
+<td align="center"><strong><g-emoji class="g-emoji" alias="earth_africa" fallback-src="">:dollar:</g-emoji> Automated Teller Machine ATM Banking System simulation</strong></td>
      <td align="center"><strong>:lock: Securing Web Application using Spring Boot</strong></td>
 
 </tr> 
