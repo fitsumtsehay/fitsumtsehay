@@ -63,15 +63,11 @@ Here are some ideas to get you started:
   <i>If you would like to learn more, here's how you can:</i>
 </p>
 <p align="center" dir="auto">
-  <a href="https://www.linkedin.com/in/fitsum-tsehay/" alt="Linkedin" rel="nofollow"><img src="https://github.com/janejuenyang/janejuenyang/raw/main/images/linkedin.svg" width="25" style="max-width: 100%;"></a>
-      <img src="https://github.com/janejuenyang/janejuenyang/raw/main/images/linkedin.svg" width="25" style="max-width: 100%;"></a>
-
-  <img src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></a>
   
-  <a href="https://janeyang.org/" alt="Personal Website" rel="nofollow"><img src="https://github.com/janejuenyang/janejuenyang/raw/main/images/JA%20NE.png" width="25" style="max-width: 100%;"></a>
   
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="fitsum-tsehay" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/fitsum-tsehay?trk=profile-badge">Fitsum Tsehay</a></div>
-              
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  
+  
 </p>
 <p align="center" dir="auto">
   <i>have a joyful day!</i>
