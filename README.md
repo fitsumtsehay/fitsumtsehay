@@ -65,7 +65,6 @@ Here are some ideas to get you started:
 <p align="center" dir="auto">
   <a href="https://www.linkedin.com/in/fitsum-tsehay/" alt="Linkedin" rel="nofollow"><img src="https://github.com/janejuenyang/janejuenyang/raw/main/images/linkedin.svg" width="25" style="max-width: 100%;"></a>
   
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
   
   <a href="https://janeyang.org/" alt="Personal Website" rel="nofollow"><img src="https://github.com/janejuenyang/janejuenyang/raw/main/images/JA%20NE.png" width="25" style="max-width: 100%;"></a>
 </p>
