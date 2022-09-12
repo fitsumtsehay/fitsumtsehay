@@ -35,7 +35,10 @@ Here are some ideas to get you started:
 <tr>
   
 <td align="center">A vacation rental booking application using MySQL Database, Spring Boot, JavaScript, CSS and HTML  <a href="https://github.com/fitsumtsehay/jfwd-final-project">Rental App</a></td>
+  
+  
 <td align="center">With this application one can add a new pet to the store, update an existing pet, delete a pet or list pet inventory. Used Spring Boot, JavaScript, CSS and HTML. 
+  <a href="https://github.com/fitsumtsehay/PetSmartProject" rel="nofollow">Pet Store App</a></td>
   
   
   
