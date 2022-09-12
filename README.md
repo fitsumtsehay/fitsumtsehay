@@ -82,7 +82,7 @@ Here are some ideas to get you started:
     </tr>
     <tr>
     <td align="center">The application simulate different banking services through the Automated Teller Machines including regular transactions like cash deposits, cash withdrawals as well as balance enquiry.<a href="https://github.com/fitsumtsehay/Spring-ATM-Final-" rel="nofollow">ATM Banking System</a></td>
-    <td align="center">A vacation rental booking application using MySQL Database, Spring Boot, JavaScript, CSS and HTML  <a href="https://github.com/fitsumtsehay/jfwd-final-project" rel="nofollow">Rental App</a></td>
+    <td align="center">With this application helps users can find vacation rental properties and book. Used MySQL Database, Spring Boot, JavaScript, CSS and HTML  <a href="https://github.com/fitsumtsehay/jfwd-final-project" rel="nofollow">Rental App</a></td>
     </tr>
     </tbody>
     </table>
