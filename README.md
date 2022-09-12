@@ -55,14 +55,14 @@ Here are some ideas to get you started:
 
   
   
-</tr> 
 <tr>
  
       <td align="center">The Automated Teller Machine ATM Banking System is a banking application developed to simulate different banking services through the Automated Teller Machines including regular transactions like cash deposits, cash withdrawals as well as balance enquiry. <a href="https://github.com/fitsumtsehay/Spring-ATM-Final-" rel="nofollow">ATM Banking System</td>
 
   
- <td align="center">In order to secure a web appication a user is required to log in before having access to any of the applications. The user can either log in as a user, and have limited access, or as an admin, and have full access, <a href="https://github.com/fitsumtsehay/SpringBootLoginSecurityWithNavbar" rel="nofollow">Web Application Security</a></td> 
+ <td align="center">In order to secure a web appication a user is required to log in before having access to any of the applications. The user can either log in as a user, and have limited access, or as an admin, and have full access <a href="https://github.com/fitsumtsehay/SpringBootLoginSecurityWithNavbar" rel="nofollow">Web Application Security</a></td> 
   
+</tr> 
 
   
 
