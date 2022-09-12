@@ -26,26 +26,22 @@ Here are some ideas to get you started:
 <thead>
 <tr>
   
-  
 <th align="center"><strong><g-emoji class="g-emoji" alias="dash" fallback-src="">
 :dog:	</g-emoji> Pet stroe App</strong></th>
   
  <th align="center"><strong><g-emoji class="g-emoji" alias="ballot_box" fallback-src="">:house_with_garden:</g-emoji> Vacation rental booking application</strong></th>
- 
-</tr>
+ </tr>
 </thead>
 <tbody>
 <tr>
-  
 
-  
-<td align="center">With this application one can add a new pet to the store, update an existing pet, delete a pet or list pet inventory. Used Spring Boot, JavaScript, CSS and HTML. 
+ <td align="center">With this application one can add a new pet to the store, update an existing pet, delete a pet or list pet inventory. Used Spring Boot, JavaScript, CSS and HTML. 
   <a href="https://github.com/fitsumtsehay/PetSmartProject" rel="nofollow">Pet Store App</a></td>
   
   <td align="center">A vacation rental booking application using MySQL Database, Spring Boot, JavaScript, CSS and HTML  <a href="https://github.com/fitsumtsehay/jfwd-final-project">Rental App</a></td>
   
-  
 </tr>
+  
 <tr>
   
 <td align="center"><strong><g-emoji class="g-emoji" alias="earth_africa" fallback-src="">:dollar:</g-emoji> Automated Teller Machine ATM Banking System simulation</strong></td>
@@ -58,7 +54,7 @@ Here are some ideas to get you started:
   
 <tr>
 
-      <td align="center">The Automated Teller Machine ATM Banking System is a banking application developed to simulate different banking services through the Automated Teller Machines including regular transactions like cash deposits, cash withdrawals as well as balance enquiry. <a href="https://github.com/fitsumtsehay/Spring-ATM-Final-" rel="nofollow">ATM Banking System</td>
+      <td align="center">The Automated Teller Machine ATM Banking System is a banking application developed to simulate different banking services through the Automated Teller Machines including regular transactions like cash deposits, cash withdrawals as well as balance enquiry. <a href="https://github.com/fitsumtsehay/Spring-ATM-Final-" rel="nofollow">ATM Banking System</a></td>
 
   
  <td align="center">In order to secure a web appication a user is required to log in before having access to any of the applications. The user can either log in as a user, and have limited access, or as an admin, and have full access <a href="https://github.com/fitsumtsehay/SpringBootLoginSecurityWithNavbar" rel="nofollow">Web Application Security</a></td> 
