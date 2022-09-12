@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 <thead>
 <tr>
   
-<th align="center"><strong><g-emoji class="g-emoji" alias="dash" fallback-src="">
-:dog:	</g-emoji> Pet stroe App</strong></th>
+<th align="center"><strong><g-emoji class="g-emoji" alias="dash" fallback-src="">:dog:</g-emoji> Pet stroe App</strong></th>
   
  <th align="center"><strong><g-emoji class="g-emoji" alias="ballot_box" fallback-src="">:house_with_garden:</g-emoji> Vacation rental booking application</strong></th>
  </tr>
@@ -46,7 +45,7 @@ Here are some ideas to get you started:
   
 <td align="center"><strong><g-emoji class="g-emoji" alias="earth_africa" fallback-src="">:dollar:</g-emoji> Automated Teller Machine ATM Banking System simulation</strong></td>
   
-<td align="center"><strong>:lock: Securing Web Application using Spring Boot</strong></td>
+<th align="center"><strong>:lock: Securing Web Application using Spring Boot</strong></th>
   
 
   
