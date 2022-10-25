@@ -38,7 +38,7 @@ Here are some ideas to get you started:
     </tr>
     <tr>
     <td align="center"><strong><g-emoji class="g-emoji" alias="" fallback-src="">:dollar:</g-emoji>Automated Teller Machine ATM Banking System simulation</strong></td>
-    <td align="center"><strong>:house_with_garden:</g-emoji>Vacation rental booking application</strong></td>
+    <td align="center"><strong>:house_with_garden:</g-emoji>Vacation rental App</strong></td>
     </tr>
     <tr>
     <td align="center">The application simulate different banking services through the Automated Teller Machines including regular transactions like cash deposits, cash withdrawals as well as balance enquiry.<br><a href="https://github.com/fitsumtsehay/Spring-ATM-Final-" rel="nofollow">ATM Banking System</a></td>
