@@ -44,13 +44,19 @@ Here are some ideas to get you started:
     <td align="center">The application simulate different banking services through the Automated Teller Machines including regular transactions like cash deposits, cash withdrawals as well as balance enquiry.<a href="https://github.com/fitsumtsehay/Spring-ATM-Final-" rel="nofollow">ATM Banking System</a></td>
     <td align="center">With this application helps users can find vacation rental properties and book. Used MySQL Database, Spring Boot, JavaScript, CSS and HTML  <a href="https://github.com/fitsumtsehay/jfwd-final-project" rel="nofollow">Rental App</a></td>
     </tr>
+    <tr>
+            <th>Spring Boot CRUD Operations</th>
+        </tr>
+            <tr>
+            <td align="center">Spring Boot CRUD Operations with entity property list and MySQL database<br> <a href="https://github.com/fitsumtsehay/PropertyList.git">CRUD Operations on Property Listings</a></td>
+        </tr>
     </tbody>
     </table>
     
     
 
 <p align="center" dir="auto">
-  <p align="center">If you would like to learn more, here's how you can:</p>
+  <h3 align="center">If you would like to learn more, here's how you can:</h3>
 </p>
 <p align="center" dir="auto">
                 
@@ -60,7 +66,7 @@ Here are some ideas to get you started:
 </p>
 </p>
 <p align="center" dir="auto">
-  <p align="center">Have a wonderfull day!</p>
+  <h3 align="center">Have a wonderfull day!</h3>
 </p>
  </p>
 
