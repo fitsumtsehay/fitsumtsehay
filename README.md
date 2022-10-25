@@ -32,13 +32,6 @@ Here are some ideas to get you started:
     </tr>
     </thead>
     <tbody>
-    
-       <tr>
-    <td align="center">Spring Boot CRUD Operations with entity property list and MySQL database. <a href="https://github.com/fitsumtsehay/PropertyList.git">PropertyList</a></td>
-    <td align="center"><a https://github.com/fitsumtsehay/PropertyList.git" rel="nofollow">Property List</a></td>
-    </tr>
-    
-    
     <tr>
     <td align="center"> With this application one can add a new pet to the store, update an existing pet, delete a pet or list pet inventory. Used Spring Boot, JavaScript, CSS and HTML <a href="https://github.com/fitsumtsehay/PetSmartProject">Pet Store App</a></td>
     <td align="center">In order to secure a web appication a user is required to log in before having access to any of the applications. The user can either log in as a user, and have limited access, or as an admin, and have full access <a href="https://github.com/fitsumtsehay/SpringBootLoginSecurityWithNavbar" rel="nofollow">Web Application Security</a></td>
@@ -70,5 +63,4 @@ Here are some ideas to get you started:
   <p align="center">Have a wonderfull day!</p>
 </p>
  </p>
-
 
