@@ -33,24 +33,24 @@ Here are some ideas to get you started:
     </thead>
     <tbody>
     <tr>
-    <td align="center"> With this application one can add a new pet to the store, update an existing pet, delete a pet or list pet inventory. Used Spring Boot, JavaScript, CSS and HTML <br><a href="https://github.com/fitsumtsehay/PetSmartProject">Pet Store App</a></td>
-    <td align="center">In order to secure a web appication a user is required to log in before having access to any of the applications. The user can either log in as a user, and have limited access, or as an admin, and have full access <br><a href="https://github.com/fitsumtsehay/SpringBootLoginSecurityWithNavbar" rel="nofollow">Web Application Security</a></td>
+    <td align="center"> With this application one can add a new pet to the store, update an existing pet, delete a pet or list pet inventory. Used Spring Boot, JavaScript, CSS and HTML <br><a href="https://github.com/fitsumtsehay/PetSmartProject" target="_blank">Pet Store App</a></td>
+    <td align="center">In order to secure a web appication a user is required to log in before having access to any of the applications. The user can either log in as a user, and have limited access, or as an admin, and have full access <br><a href="https://github.com/fitsumtsehay/SpringBootLoginSecurityWithNavbar" target="_blank" rel="nofollow">Web Application Security</a></td>
     </tr>
     <tr>
     <td align="center"><strong><g-emoji class="g-emoji" alias="" fallback-src="">:dollar:</g-emoji>Automated Teller Machine ATM Banking System simulation</strong></td>
     <td align="center"><strong>:house_with_garden:</g-emoji>Vacation rental App</strong></td>
     </tr>
     <tr>
-    <td align="center">The application simulate different banking services through the Automated Teller Machines including regular transactions like cash deposits, cash withdrawals as well as balance enquiry.<br><a href="https://github.com/fitsumtsehay/Spring-ATM-Final-" rel="nofollow">ATM Banking System</a></td>
-    <td align="center">The application let users search for vacation rental properties. Used MySQL Database, Spring Boot, JavaScript, CSS and HTML  <a href="https://github.com/fitsumtsehay/jfwd-final-project" rel="nofollow"><br>Rental App</a></td>
+    <td align="center">The application simulate different banking services through the Automated Teller Machines including regular transactions like cash deposits, cash withdrawals as well as balance enquiry.<br><a href="https://github.com/fitsumtsehay/Spring-ATM-Final-" target="_blank" rel="nofollow">ATM Banking System</a></td>
+    <td align="center">The application let users search for vacation rental properties. Used MySQL Database, Spring Boot, JavaScript, CSS and HTML  <a href="https://github.com/fitsumtsehay/jfwd-final-project" target="_blank" rel="nofollow"><br>Rental App</a></td>
     </tr>
     <tr>
     <th>Spring Boot CRUD Operations</th>
     <th>Python Flask web application project</th>
     </tr>
      <tr>
-     <td align="center">Spring Boot CRUD Operations using property list and MySQL database<br> <a href="https://github.com/fitsumtsehay/PropertyList.git">CRUD Operations on Property Listings</a></td>
-            <td align="center"> This Python-Flask web application framework or module is being used to handle the requests and responses from users using CRUD example <br><a href="https://github.com/fitsumtsehay/flask-python-project.git"  target="_blank" rel="nofollow"> Python Flask web application</a></td>
+     <td align="center">Spring Boot CRUD Operations using property list and MySQL database<br> <a href="https://github.com/fitsumtsehay/PropertyList.git" target="_blank">CRUD Operations on Property Listings</a></td>
+            <td align="center"> This Python-Flask web application framework or module is being used to handle the requests and responses from users using CRUD example <br><a href="https://github.com/fitsumtsehay/flask-python-project.git" target="_blank" rel="nofollow"> Python Flask web application</a></td>
         </tr>
     </tbody>
     </table>
