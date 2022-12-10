@@ -42,17 +42,19 @@ Here are some ideas to get you started:
     </tr>
     <tr>
     <td align="center">The application simulate different banking services through the Automated Teller Machines including regular transactions like cash deposits, cash withdrawals as well as balance enquiry.<br><a href="https://github.com/fitsumtsehay/Spring-ATM-Final-" rel="nofollow">ATM Banking System</a></td>
-    <td align="center">With this application users can find vacation rental properties and book. Used MySQL Database, Spring Boot, JavaScript, CSS and HTML  <a href="https://github.com/fitsumtsehay/jfwd-final-project" rel="nofollow">Rental App</a></td>
+    <td align="center">The application let users search for vacation rental properties. Used MySQL Database, Spring Boot, JavaScript, CSS and HTML  <a href="https://github.com/fitsumtsehay/jfwd-final-project" rel="nofollow"><br>Rental App</a></td>
     </tr>
     <tr>
-            <th>Spring Boot CRUD Operations</th>
-        </tr>
-            <tr>
-            <td align="center">Spring Boot CRUD Operations with entity property list and MySQL database<br> <a href="https://github.com/fitsumtsehay/PropertyList.git">CRUD Operations on Property Listings</a></td>
+    <th>Spring Boot CRUD Operations</th>
+    <th>Python Flask web application project</th>
+    </tr>
+     <tr>
+     <td align="center">Spring Boot CRUD Operations using property list and MySQL database<br> <a href="https://github.com/fitsumtsehay/PropertyList.git">CRUD Operations on Property Listings</a></td>
+            <td align="center"> This Python-Flask web application framework or module is being used to handle the requests and responses from users using CRUD example <br><a href="https://github.com/fitsumtsehay/flask-python-project.git"  target="_blank" rel="nofollow"> Python Flask web application</a></td>
         </tr>
     </tbody>
     </table>
-    
+       
     
 
 <p align="center" dir="auto">
