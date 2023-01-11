@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   <h3 align="center">If you would like to learn more, here's how you can:</h3>
 </p>
 <p align="center" dir="auto">
-      <h3 align="center"><a href="https://portfolio-fitsum.netlify.app/"{"target="_blank"}>Portfolio</a></h3>   
+      <h3 align="center"><a href="https://portfolio-fitsum.netlify.app/"{:target="_blank"}>Portfolio</a></h3>   
           [Portfolio](https://portfolio-fitsum.netlify.app){:target="_blank"}
 
    <p align="center" dir="auto">
