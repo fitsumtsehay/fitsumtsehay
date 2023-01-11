@@ -61,13 +61,7 @@ Here are some ideas to get you started:
   <h3 align="center">If you would like to learn more, here's how you can:</h3>
 </p>
 <p align="center" dir="auto">
-      <h3 align="center"><a href="https://portfolio-fitsum.netlify.app/{"target="_blank"}>Portfolio</a></h3>  
-      [Portfolio](https://portfolio-fitsum.netlify.app/){:target="_blank" rel="noopener"}
-      [Stackoverflow The Key](https://stackoverflow.blog/2021/03/31/the-key-copy-paste/){:target="_blank" rel="noopener"}
-      [temporarily disable liquid tag processing](https://shopify.github.io/liquid/tags/raw/){:title="Click to Visit the Raw page at Shopify"}{:target="_blank"}
-
-
-
+      <h3 align="center"><a href="https://portfolio-fitsum.netlify.app/"{"target="_blank"}>Portfolio</a></h3>         
    <p align="center" dir="auto">
     <a href="https://www.linkedin.com/in/fitsum-tsehay/" rel="nofollow"><img height="30" src="https://camo.githubusercontent.com/7a5da56a52ff887ab16885ccf2aac10214e90dbb87705a60fd8e04aa3e13354e/68747470733a2f2f6477676c6f676f2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f4c696e6b6564696e5f73796d626f6c5f7472616e73706172656e742e706e67" data-canonical-src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png" style="max-width: 100%;"></a>&nbsp;&nbsp;  
    
