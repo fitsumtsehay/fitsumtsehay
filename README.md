@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=fitsumtsehay&theme=highcontrast&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fitsumtsehay)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fitsumtsehay&theme=highcontrast&show_icons=true&count_private=true)
 
 <h4 align="center">👯 Here are selected examples of my work:</h4>
 
