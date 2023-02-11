@@ -63,6 +63,10 @@ Here are some ideas to get you started:
     </tbody>
 </table>
 
+
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+
 <h4 align="center">👯 Here are selected examples of my work:</h4>
 
 
