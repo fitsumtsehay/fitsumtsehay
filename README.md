@@ -42,11 +42,23 @@ Here are some ideas to get you started:
             <span><strong>CSS</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
             </td>
+            <td width="80px" align="center">
+            <span><strong>jQuery</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
+            </td>
+             <td width="80px" align="center">
+            <span><strong>Flask</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>nodejs</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+            </td>
         </tr>
         <tr valign="top">
             <td width="80px" align="center">
             <span><strong>Docker</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>git</strong></span><br>
@@ -59,12 +71,23 @@ Here are some ideas to get you started:
             <span><strong>Bootstrap</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
             </td>
+            <td width="80px" align="center">
+            <span><strong>JavaScript</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Linux</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>JavaScript</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+            </td>
         </tr>
     </tbody>
 </table>
 
 
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 
 <h4 align="center">👯 Here are selected examples of my work:</h4>
