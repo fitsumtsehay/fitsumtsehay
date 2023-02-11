@@ -46,7 +46,7 @@ Here are some ideas to get you started:
         <tr valign="top">
             <td width="80px" align="center">
             <span><strong>React</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>git</strong></span><br>
