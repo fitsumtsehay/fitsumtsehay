@@ -1,5 +1,5 @@
-# Hello! 👋
-#### I’m Fitsum, a Software developer, Scrum Master, Full Stack Java Developer, and a certified AWS Solutions Architect, with skills in Java, Python and JavaScript, who is eager to collaborate on user-focused software products and features for clients. I have over 70 repositories and some of them are pined below.
+## Hello! 👋
+#### I’m Fitsum, a Software developer, Scrum Master, Full Stack Java Developer, and a certified AWS Solutions Architect, with skills in Java, Python and JavaScript, who is eager to collaborate on user-focused software products and features for clients. 
 <!--
 **fitsumtsehay/fitsumtsehay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">Languages and Tools:</h3>
-
-
 
 <table width="320px">
     <tbody>
@@ -101,11 +99,8 @@ Here are some ideas to get you started:
         </tr>
     </tbody>
 </table>
-
-
-          
+         
 ![Github stats](https://github-readme-stats.vercel.app/api?username=fitsumtsehay&theme=highcontrast&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fitsumtsehay&theme=tokyonight)
 
 
 <h3 align="center"> Here are selected examples of my work:</h3>
