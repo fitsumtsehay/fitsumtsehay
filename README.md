@@ -120,11 +120,11 @@ Here are some ideas to get you started:
     </tr>
     <tr>
     <td align="center"><strong><g-emoji class="g-emoji" alias="" fallback-src="">:dollar:</g-emoji>Automated Teller Machine ATM Banking System simulation</strong></td>
-    <td align="center"><strong>:house_with_garden:</g-emoji>Vacation rental App</strong></td>
+    <td align="center"><strong>:house_with_garden:</g-emoji>Hotel Reservation App</strong></td>
     </tr>
     <tr>
     <td align="center">The application simulate different banking services through the Automated Teller Machines including regular transactions like cash deposits, cash withdrawals as well as balance enquiry.<br><a href="https://github.com/fitsumtsehay/Spring-ATM-Final-" target="_blank" rel="nofollow">ATM Banking System</a></td>
-    <td align="center">The application let users search for vacation rental properties. Used MySQL Database, Spring Boot, JavaScript, CSS and HTML  <a href="https://github.com/fitsumtsehay/jfwd-final-project" target="_blank" rel="nofollow"><br>Rental App</a></td>
+    <td align="center">A hotel reservation application that allows customers to find and book a hotel room. Designed and implemented using Java  <a href="https://github.com/fitsumtsehay/hotel-reservation-with-java" target="_blank" rel="nofollow"><br>Hotel Reservation App</a></td>
     </tr>
     <tr>
     <th>Spring Boot CRUD Operations</th>
