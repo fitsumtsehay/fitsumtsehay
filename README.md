@@ -116,7 +116,7 @@ Here are some ideas to get you started:
     <tbody>
     <tr>
     <td align="center"> With this application one can add a new pet to the store, update an existing pet, delete a pet or list pet inventory. Used Spring Boot, JavaScript, CSS and HTML <br><a href="https://github.com/fitsumtsehay/PetSmartProject" target="_blank">Pet Store App</a></td>
-    <td align="center">In order to secure a web appication a user is required to log in before having access to any of the applications. The user can either log in as a user, and have limited access, or as an admin, and have full access <br><a href="https://github.com/fitsumtsehay/SpringBootLoginSecurityWithNavbar" target="_blank" rel="nofollow">Web Application Security</a></td>
+    <td align="center">Created a secure login app using Spring Boot and Spring Security. The app allows authorized users to access secured resources based on their roles while ensuring user data safety <br><a href="https://github.com/fitsumtsehay/SpringBootLoginSecurityWithNavbar" target="_blank" rel="nofollow">Web Application Security</a></td>
     </tr>
     <tr>
     <td align="center"><strong><g-emoji class="g-emoji" alias="" fallback-src="">:dollar:</g-emoji>Automated Teller Machine ATM Banking System simulation</strong></td>
@@ -131,8 +131,8 @@ Here are some ideas to get you started:
     <th>Python Flask web application project</th>
     </tr>
      <tr>
-     <td align="center">Spring Boot CRUD Operations using property list and MySQL database<br> <a href="https://github.com/fitsumtsehay/PropertyList.git" target="_blank">CRUD Operations on Property Listings</a></td>
-            <td align="center"> This Python-Flask web application framework or module is being used to handle the requests and responses from users using CRUD example <br><a href="https://github.com/fitsumtsehay/flask-python-project.git" target="_blank" rel="nofollow"> Python Flask web application</a></td>
+     <td align="center">This project uses Spring Boot to perform CRUD operations on a MySQL database. It involves creating a model class, repository interface, and controller class, with HTML templates created using Thymeleaf.<br> <a href="https://github.com/fitsumtsehay/PropertyList.git" target="_blank">CRUD Operations on Property Listings</a></td>
+            <td align="center"> A Python-Flask web application framework or module is utilized to manage the HTTP requests and responses from users through a CRUD example in this project. <br><a href="https://github.com/fitsumtsehay/flask-python-project.git" target="_blank" rel="nofollow"> Python Flask web application</a></td>
         </tr>
     </tbody>
     </table>
