@@ -124,7 +124,7 @@ Here are some ideas to get you started:
     </tr>
     <tr>
     <td align="center">The application simulate different banking services through the Automated Teller Machines including regular transactions like cash deposits, cash withdrawals as well as balance enquiry.<br><a href="https://github.com/fitsumtsehay/Spring-ATM-Final-" target="_blank" rel="nofollow">ATM Banking System</a></td>
-    <td align="center">A hotel reservation application that allows customers to find and book a hotel room. Designed and implemented using Java  <a href="https://github.com/fitsumtsehay/hotel-reservation-with-java" target="_blank" rel="nofollow"><br>Hotel Reservation App</a></td>
+    <td align="center">A hotel reservation application that allows customers to find and book a hotel room. Designed and implemented using Java  <a href="https://github.com/fitsumtsehay/hotel-reservation-with-java" target="_blank" rel="nofollow"><br>Hotel Booking App</a></td>
     </tr>
     <tr>
     <th>Spring Boot CRUD Operations</th>
