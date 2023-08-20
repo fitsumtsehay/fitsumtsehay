@@ -52,8 +52,8 @@ Here are some ideas to get you started:
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>Django</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+            <span><strong>React</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
             </td>
             <td width="80px" align="center">
             <span><strong>Spring</strong></span><br>
